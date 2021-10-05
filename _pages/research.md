@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Research Papers 
+The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century (Job Market Paper)
 
-{% include base_path %}
+The Impact of Selection into the Labor Force on the Gender Wage Gap (With Francine D. Blau, Lawrence M. Kahn & Matthew L. Comey)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+The Labor Market Outcomes of WWI Veterans: Positive Results Despite Limited Support
+
+Works in Progress
+Does Debt Lead to Crime? Exploiting Variation from Prisoners Voluntary Unemployment (With Stan Veuger)
