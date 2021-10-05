@@ -11,5 +11,5 @@ author_profile: true
 
 ## The Labor Market Outcomes of WWI Veterans: Positive Results Despite Limited Support
 
-## Works in Progress
-Does Debt Lead to Crime? Exploiting Variation from Prisoners Voluntary Unemployment (with Stan Veuger)
+## Does Debt Lead to Crime? Exploiting Variation from Prisoners "Voluntary" Unemployment (with Stan Veuger)
+
