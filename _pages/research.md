@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working Papers
+
 
 ## The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century (Job Market Paper)
 
