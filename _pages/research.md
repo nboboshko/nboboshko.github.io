@@ -5,9 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+# Working Papers
+
 ## The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century (Job Market Paper)
 
 *Abstract:*
+
+After working for a given number of years, most US K-12 teachers gain tenure, which grants them substantial job security. These tenure protections are widespread, controversial, and their impact is unclear. I study how students’ exposure to tenure systems affects their long-run outcomes. Due to limited contemporaneous variation, I go back to the 20th Century and identify all state implementations of tenure systems. I then implement a difference-in-difference design that exploits differential exposure to tenure across cohorts of students. By studying the impact of a whole tenure system, I identify the joint effect of all channels through which tenure operates. An additional benefit is the ability to identify the long-run effects of tenure policies. Event study models reveal that tenure systems negatively impact student outcomes, but only when they are binding. The first tenure laws, passed between 1910-1922, increased teacher retention and drastically lowered long-run wage income. All later laws, implemented between 1927-1977, did not affect teacher retention or the long-run outcomes of the average student. I show that these heterogeneous effects are due to teacher labor markets. In a teacher surplus, tenure laws bind and improve teacher retention but negatively impact students. In a teacher shortage, tenure laws do not bind and do not affect teacher retention and students.
 
 ## [The Impact of Selection into the Labor Force on the Gender Wage Gap](https://www.nber.org/papers/w28855) (with Francine D. Blau, Lawrence M. Kahn & Matthew L. Comey)
 
@@ -31,6 +35,10 @@ do not imply that veterans will always perform well in the labor markets and tha
 are not necessary. Instead, the positive veteran premium is in part due to the unique characteristics of the early 
 20th-century labor markets. 
 
+# Works in Progress
+
 ## Does Debt Lead to Crime? Exploiting Variation from Prisoners "Voluntary" Unemployment (with Stan Veuger)
 
 *Abstract:*
+
+Do criminals respond to the opportunity cost of crime? We provide evidence based on variation in state supreme court rulings that no longer force prisoners to pay child support. Due to low prison wages, payment of child support orders is difficult, leading to high arrears and the garnishment of wages post-release. Implementing a difference-in-differences design, we find that states which do not force prisoners to pay child support experienced large reductions in crime and prisoner populations with no negative impact on child support payments.
