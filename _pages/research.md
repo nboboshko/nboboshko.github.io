@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-### [The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/boboshko_teacher_tenure.pdf) (Job Market Paper)
+### [The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/boboshko_jmp.pdf) (Job Market Paper)
 
 *Abstract:*
 
