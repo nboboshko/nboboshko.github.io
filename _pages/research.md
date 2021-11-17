@@ -44,7 +44,8 @@ are not necessary. Instead, the positive veteran premium is in part due to the u
 Do criminals respond to the opportunity cost of crime? We provide evidence based on variation in state supreme court rulings that no longer force prisoners to pay child support. Due to low prison wages, payment of child support orders is difficult, leading to high arrears and the garnishment of wages post-release. Implementing a difference-in-differences design, we find that states which do not force prisoners to pay child support experienced large reductions in crime and prisoner populations with no negative impact on child support payments.
 
 ## Publications
-[<h3>Business Cycle Shocks to Foreign Aid Flows</h3>](https://www.sciencedirect.com/science/article/pii/S1877705816323384?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb), (2016) *Procedia Engineering* 159, 326-328. Joint with Stan Veuger.
+
+<a href="(https://www.sciencedirect.com/science/article/pii/S1877705816323384?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb">Business Cycle Shocks to Foreign Aid Flows</a>, (2016) *Procedia Engineering* 159, 326-328. Joint with Stan Veuger.
 
 *Abstract:*
 
