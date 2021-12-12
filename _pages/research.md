@@ -32,9 +32,12 @@ are not necessary. Instead, the positive veteran premium is in part due to the u
 ## Works in Progress
 
 ### Does Debt Lead to Crime? Exploiting Variation from Prisoners "Voluntary" Unemployment (with Stan Veuger) 
-*-Draft coming soon!*
 
 Do criminals respond to the opportunity cost of crime? We provide evidence based on variation in state supreme court rulings that no longer force prisoners to pay child support. Due to low prison wages, payment of child support orders is difficult, leading to high arrears and the garnishment of wages post-release. Implementing a difference-in-differences design, we find that states which do not force prisoners to pay child support experienced large reductions in crime and prisoner populations with no negative impact on child support payments.
+
+*-Draft coming soon!*
+
+*-[Main Effect on Violent Crime](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/paper_highlight.pdf)*
 
 ## Publications
 
