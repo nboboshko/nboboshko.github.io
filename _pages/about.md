@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied economist and a PhD candidate in Economics at Cornell University. My research interests are in labor economics, economic history and economics of education. I am on the job market for the 2021-2022 academic year.
+I am an applied economist and a PhD candidate in Economics at Cornell University. My research interests are in labor economics, economics of education and economic history. I am on the job market for the 2021-2022 academic year.
