@@ -39,6 +39,8 @@ Do criminals respond to the opportunity cost of crime? We provide evidence based
 
 *-[Main Effect on Violent Crime](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/paper_highlight.pdf)*
 
+### The Minimum Wage and Wage Inequality (with Francine D. Blau, Lawrence M. Kahn, Matthew L. Comey & Isaac Cohen)
+
 ## Publications
 
 <b><a href="(https://www.sciencedirect.com/science/article/pii/S1877705816323384?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb">Business Cycle Shocks to Foreign Aid Flows</a>, (2016) *Procedia Engineering* 159, 326-328. Joint with Stan Veuger.</b>
