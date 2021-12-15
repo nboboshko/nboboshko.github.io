@@ -39,7 +39,7 @@ Do criminals respond to the opportunity cost of crime? We provide evidence based
 
 *-[Main Effect on Violent Crime](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/paper_highlight.pdf)*
 
-### The Minimum Wage and Wage Inequality (with Francine D. Blau, Lawrence M. Kahn, Matthew L. Comey & Isaac Cohen)
+### The Minimum Wage and Wage Inequality (with Francine D. Blau, Lawrence M. Kahn, Isaac Cohen & Matthew L. Comey)
 
 ## Publications
 
