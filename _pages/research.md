@@ -7,7 +7,7 @@ author_profile: true
 
 # Working Papers
 
-### [The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/boboshko_jmp.pdf) (Job Market Paper)
+### [The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/boboshko_jmp.pdf) (Job Market Paper - New Draft!)
 
 After working for a given number of years, most US K-12 teachers gain tenure, which grants them substantial job security. These tenure protections are widespread, controversial, and their impact on students is unclear. In this paper, I study how students’ exposure to tenure systems affects their long-run outcomes. As contemporary variation in tenure regimes is limited, I go back to the 20th Century. This was the period where most states implemented tenure; in 1910, only one state had a tenure regime, but by 1977 every state had a tenure law. I then exploit the passage of tenure laws between 1910-1977 in a difference-in-differences design. Event study models reveal that tenure systems negatively impact student outcomes, but only when they improve teacher job security. Tenure laws that do not increase teacher job security do not affect students. I present evidence that these heterogeneous effects are due to the tightness of teacher labor markets. In a teacher surplus, tenure laws increase teacher job security but negatively impact students. In a teacher shortage, tenure laws do not affect teachers or students.
 
