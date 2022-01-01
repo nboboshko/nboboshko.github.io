@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working Papers
+## Working Papers
 
 ### [The Effect of Tenure Laws on Students: Evidence from the Implementation of Tenure Systems in the 20th Century](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/boboshko_jmp.pdf) (Job Market Paper - New Draft!)
 
@@ -29,7 +29,7 @@ do not imply that veterans will always perform well in the labor markets and tha
 are not necessary. Instead, the positive veteran premium is in part due to the unique characteristics of the early 
 20th-century labor markets. 
 
-# Works in Progress
+## Works in Progress
 
 ### The Minimum Wage and Wage Inequality (with Francine D. Blau, Lawrence M. Kahn, Isaac Cohen & Matthew L. Comey)
 
@@ -41,7 +41,7 @@ Do criminals respond to the opportunity cost of crime? We provide evidence based
 
 *-[Main Effect on Violent Crime](https://github.com/nboboshko/nboboshko.github.io/raw/master/files/paper_highlight.pdf)*
 
-# Publications
+## Publications
 
 <b><a href="(https://www.sciencedirect.com/science/article/pii/S1877705816323384?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb">Business Cycle Shocks to Foreign Aid Flows</a>, (2016) *Procedia Engineering* 159, 326-328. Joint with Stan Veuger.</b>
 
